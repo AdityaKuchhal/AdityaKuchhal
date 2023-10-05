@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kuchhal</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Blockchain | MERN Projects**
 
-- 🌱 I’m currently learning **Flutter, MERN**
+- 🌱 I’m currently learning **Flutter | MERN**
 
-- 👯 I’m looking to collaborate with **other Software Developers to enhance my skills**
+- 👯 I’m looking to collaborate with **other developers to enhance my skills**
 
-- 💬 Ask me about **Flutter, Dart, MERN**
+- 💬 Ask me about **Flutter, Dart, MERN, Blockchain**
 
 - 📫 How to reach me **adikuchhal@gmail.com**
 
