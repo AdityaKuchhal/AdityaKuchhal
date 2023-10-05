@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aditya Kuchhal</h1>
-<h3 align="center">A passionate Mobile App Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakuchhal&label=Profile%20views&color=0e75b6&style=flat" alt="adityakuchhal" /> </p>
 
-- 🔭 I’m currently working on **Some python projects**
+- 🔭 I’m currently working on **Blockchain | MERN Projects**
 
-- 🌱 I’m currently learning **Flutter, React Native**
+- 🌱 I’m currently learning **Flutter, MERN**
 
-- 👯 I’m looking to collaborate with **other Mobile App Developers to enhance my skills**
+- 👯 I’m looking to collaborate with **other Software Developers to enhance my skills**
 
-- 💬 Ask me about **Flutter, Dart, Android**
+- 💬 Ask me about **Flutter, Dart, MERN**
 
 - 📫 How to reach me **adikuchhal@gmail.com**
 
