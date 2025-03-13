@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adityakuchhal76@gmail.com**
 
-- 📄 Know about my experiences [(https://bit.ly/4hxJlhY)]
+- 📄 Know about my experiences (https://bit.ly/adityakuchhal)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
