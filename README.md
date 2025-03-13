@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Blockchain | MERN Projects**
 
-- 🌱 I’m currently learning **Flutter | MERN**
+- 🌱 I’m currently learning **AI/ML | Flutter**
 
 - 👯 I’m looking to collaborate with **other developers to enhance my skills**
 
-- 💬 Ask me about **Flutter, Dart, MERN, Blockchain**
+- 💬 Ask me about **Flutter, Dart, Blockchain, Artificial Intelligence, Machine Learning**
 
-- 📫 How to reach me **adikuchhal@gmail.com**
+- 📫 How to reach me **adityakuchhal76@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/7akresume](https://bit.ly/7akresume)
+- 📄 Know about my experiences [[https://bit.ly/7akresume](https://bit.ly/7akresume)](https://bit.ly/4hxJlhY)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
