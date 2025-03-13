@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakuchhal&label=Profile%20views&color=0e75b6&style=flat" alt="adityakuchhal" /> </p>
 
-- 🔭 I’m currently working on **Blockchain | MERN Projects**
+- 🔭 I’m currently working on **Blockchain | AI/ML Projects**
 
 - 🌱 I’m currently learning **AI/ML | Flutter**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adityakuchhal76@gmail.com**
 
-- 📄 Know about my experiences [[https://bit.ly/7akresume](https://bit.ly/7akresume)](https://bit.ly/4hxJlhY)
+- 📄 Know about my experiences [(https://bit.ly/4hxJlhY)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
