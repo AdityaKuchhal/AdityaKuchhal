@@ -18,9 +18,8 @@
 
 ```typescript
 const aditya = {
-  location: "Vaughan, ON 🇨🇦",
   education: [
-    "B.Tech CS — Amity University",
+    "B.Tech Computer Science — Amity University",
     "PGD Backend & Blockchain — York University",
     "PGD Applied AI Solutions — George Brown College",
   ],
