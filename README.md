@@ -22,17 +22,15 @@ const aditya = {
   education: [
     "B.Tech CS — Amity University",
     "PGD Backend & Blockchain — York University",
-    "PGD Applied AI — George Brown College",
+    "PGD Applied AI Solutions — George Brown College",
   ],
   currentlyBuilding: "AK-OS portfolio (Next.js 15)",
   interests: [
     "AI/ML Engineering",
     "Full Stack Dev",
     "Blockchain",
-    "Research",
   ],
   openTo: "SWE · AI/ML · Full Stack roles",
-  funFact: "Published a CV research paper 📄",
 };
 ```
 
